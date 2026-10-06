@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Kashafa App",
+    "slug": "kashafa-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "kashafa",
+    "plugins": ["expo-router"],
+    "android": {
+      "package": "com.kashafa.app"
+    }
+  }
+}
