@@ -1,4 +1,4 @@
-# Kashafa App
+خِدمة
 
 تطبيق Android/React Native لمنصة الكشافة والخدمة الكنسية.
 
